@@ -1,0 +1,27 @@
+/*有参数和返回值的函数调用，switch语句*/
+function int add(int a, int b)
+{
+	int c;
+	c = a + b;
+	return c;
+}
+main()
+{
+	int c,a = 2, b = 5;
+	c = call add(a, b);
+	switch(c)
+	{
+	case 7:
+		write c;
+		break;
+	case 5:
+		write b;
+		break;
+	case 2:
+		write a;
+		break;
+	default:
+		write a;
+		break;	
+	}
+}

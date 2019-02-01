@@ -1,0 +1,14 @@
+/*全局变量，无参数和返回值的函数调用，变量连续声明同时初始化,一维数组*/
+int a = 10;
+function void print()
+{
+	write a;
+}
+main()
+{
+	int arr[10], b = a;
+	call print();
+	write b;
+	arr[3] = b+1;
+	write arr[3];
+}

@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1543840097 source:d:\codeblock_workspace\testparse_v0.3\main.cpp
+	<stdio.h>
+	"var.h"
+
+1543840197 d:\codeblock_workspace\testparse_v0.3\var.h
+
+1543840097 source:d:\codeblock_workspace\testparse_v0.3\scan.cpp
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<algorithm>
+	"var.h"
+
+1543840097 source:d:\codeblock_workspace\testparse_v0.3\testmachine.cpp
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<map>
+	"var.h"
+
+1543840096 source:d:\codeblock_workspace\testparse_v0.3\parse.cpp
+	<stdio.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	"var.h"
+
+1543846114 source:d:\codeblock_workspace\testparse_v0.3\parse1.cpp
+	<stdio.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	"var.h"
+
+1543846114 source:d:\codeblock_workspace\testparse_v0.3\scan1.cpp
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<algorithm>
+	"var.h"
+
+1543849365 source:d:\codeblock_workspace\testparse_v0.3\testmachine1.cpp
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<map>
+	"var.h"
+
